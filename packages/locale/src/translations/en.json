@@ -236,6 +236,7 @@
             "complete_with_brand": "Complete order",
             "continue_with_brand": "Continue with {brandName}",
             "ccavenuemars_description_text": "Checkout with CCAvenue",
+            "chargeafter_name_text": "Checkout Financing",
             "chargeafter_body_text": "You will be redirected to complete your purchase securely.",
             "chasepay_continue_action": "Continue with Chase Pay",
             "chasepay_name_text": "Chase Pay",
